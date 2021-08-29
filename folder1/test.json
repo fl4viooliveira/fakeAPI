@@ -1,0 +1,19 @@
+{
+        "code": 200,
+        "result": [
+            {
+                "id": 79348721,
+                "external_id": "e9460f6c67",
+                "name": "API product",
+                "variants": 2,
+                "synced": 2
+            }
+        ],
+        "extra": [],
+        "paging": {
+            "total": 1,
+            "offset": 0,
+            "limit": 20
+        },
+        "debug": []
+    }
