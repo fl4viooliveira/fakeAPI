@@ -7,7 +7,7 @@
                 "name": "API product",
                 "variants": 2,
                 "synced": 2,
-                "img": "./flavio.png"
+                "img": "https://fl4viooliveira.github.io/fakeAPI/folder1/flavio.png"
             }
         ],
         "extra": [],
