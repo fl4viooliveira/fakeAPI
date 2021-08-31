@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "you_might_like": [
+    {
+      "id": 1,
+      "title": "Powerful iPhone 12 Save £144",
+      "sub_title": "Saving on the cost of your Airtime Plan | Ends 7 Sept",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/vfcon110709.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Get 120GB for only £20pm*",
+      "sub_title": "SIM only | 24-month plan",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/vfcon110599.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Switch & Save £300",
+      "sub_title": "Get superfast fibre broadband from £19.50 a month*. Offer ends 1 November 2021",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/vfcon110903.jpg"
+    }
+  ],
+  "now_trending": [],
+  "more_to_love": [],
+  "discover_more": []
+}
