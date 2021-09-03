@@ -20,7 +20,38 @@
       "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/vfcon110903.jpg"
     }
   ],
-  "now_trending": [],
+  "now_trending": [
+    {
+      "id": 11,
+      "title": "Apple iPhone",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/now_trending/vfcon110074.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Samsung Galaxy",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/now_trending/vfcon110075.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Apple Watch",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/now_trending/vfcon110076.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Samsung Tablets",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/now_trending/vfcon110574.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Google Pixel",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/now_trending/vfcon110078.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Motorola",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/now_trending/vfcon110903.jpg"
+    }
+  ],
   "more_to_love": [],
   "discover_more": []
 }
