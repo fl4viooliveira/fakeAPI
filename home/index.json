@@ -72,5 +72,30 @@
       "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/more_to_love/vfcon110898.jpg"
     }
   ],
-  "discover_more": []
+  "discover_more": [
+    {
+      "id": 31,
+      "title": "Considering joining?",
+      "sub_title_1": "Pay monthly phones",
+      "sub_title_2": "SIM only deals",
+      "sub_title_3": "Broadband deals",
+      "img":"https://fl4viooliveira.github.io/fakeAPI/home/images/discover_more/img_1200x304_considering_joining.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Just joined us?",
+      "sub_title_1": "Sign up for My Vodafone",
+      "sub_title_2": "Download My Vodafone app",
+      "sub_title_3": "Chat to virtual agent TOBi",
+      "img":"https://fl4viooliveira.github.io/fakeAPI/home/images/discover_more/img_1200x304_just_joined_us.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Already with us?",
+      "sub_title_1": "Help with your device",
+      "sub_title_2": "Broadband help",
+      "sub_title_3": "Login to My Vodafone",
+      "img":"https://fl4viooliveira.github.io/fakeAPI/home/images/discover_more/img_1200x304_already_with_us.jpg"
+    }
+  ]
 }
