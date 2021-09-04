@@ -52,6 +52,25 @@
       "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/now_trending/vfcon110903.jpg"
     }
   ],
-  "more_to_love": [],
+  "more_to_love": [
+    {
+      "id": 21,
+      "title": "Save £192 on the OPPO Find X3 Pro",
+      "sub_title": "On your Airtime Plan until Sept 7",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/more_to_love/vfcon110878.jpg"
+    },
+    {
+      "id": 22,
+      "title": "With ultimate flexibility from Vodafone EVO",
+      "sub_title": "From just £12 a month*",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/more_to_love/vfcon110900.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Save £504 Guaranteed",
+      "sub_title": "When you trade in your Galaxy S10 5G or Note 10 range using our Trade-in Tool",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/home/images/more_to_love/vfcon110898.jpg"
+    }
+  ],
   "discover_more": []
 }
