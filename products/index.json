@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "phones": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy Z Flip 3",
+      "brand": "Samsung",
+      "price_month": "£44",
+      "price_upfront": "£29",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Samsung_Galaxy_Z_Fold3_phantom_black-full-product-front-600.png",
+      "description": null,
+      "5g": true
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Z Fold 3",
+      "brand": "Samsung",
+      "price_month": "£44",
+      "price_upfront": "£29",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Samsung_Galaxy_Z_Flip3_cream-full-product-front-600.png",
+      "description": null,
+      "5g": true
+    },
+    {
+      "id": 3,
+      "name": "Apple IPhone 12 Pro Max",
+      "brand": "Apple",
+      "price_month": "£44",
+      "price_upfront": "£29",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Samsung_Galaxy_Z_Flip3_cream-full-product-front-600.png",
+      "description": null,
+      "5g": true
+    },
+    {
+      "id": 4,
+      "name": "Apple IPhone 12",
+      "brand": "Apple",
+      "price_month": "£44",
+      "price_upfront": "£29",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Samsung_Galaxy_Z_Flip3_cream-full-product-front-600.png",
+      "description": null,
+      "5g": true
+    },
+    {
+      "id": 5,
+      "name": "Apple IPhone 11",
+      "brand": "Apple",
+      "price_month": "£44",
+      "price_upfront": "£29",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Samsung_Galaxy_Z_Flip3_cream-full-product-front-600.png",
+      "description": null,
+      "5g": false
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy A52s 5G",
+      "brand": "Samsung",
+      "price_month": "£44",
+      "price_upfront": "£29",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Samsung_Galaxy_Z_Flip3_cream-full-product-front-600.png",
+      "description": null,
+      "5g": true
+    }
+  ]
+}
