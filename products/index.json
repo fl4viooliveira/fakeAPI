@@ -27,7 +27,7 @@
       "brand": "Apple",
       "price_month": "£44",
       "price_upfront": "£29",
-      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Samsung_Galaxy_Z_Flip3_cream-full-product-front-600.png",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Apple_iPhone_12_Pro_Max_pacific_blue-full-product-front-600.png",
       "description": null,
       "5g": true
     },
@@ -37,7 +37,7 @@
       "brand": "Apple",
       "price_month": "£44",
       "price_upfront": "£29",
-      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Samsung_Galaxy_Z_Flip3_cream-full-product-front-600.png",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Apple_iPhone_12_purple-full-product-front-600.png",
       "description": null,
       "5g": true
     },
@@ -47,7 +47,7 @@
       "brand": "Apple",
       "price_month": "£44",
       "price_upfront": "£29",
-      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Samsung_Galaxy_Z_Flip3_cream-full-product-front-600.png",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Apple_iPhone_11_black-full-product-back-600.png",
       "description": null,
       "5g": false
     },
@@ -57,7 +57,7 @@
       "brand": "Samsung",
       "price_month": "£44",
       "price_upfront": "£29",
-      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Samsung_Galaxy_Z_Flip3_cream-full-product-front-600.png",
+      "img": "https://fl4viooliveira.github.io/fakeAPI/products/images/Samsung_Galaxy_A52s_5G_awesome_black-full-product-front-600.png",
       "description": null,
       "5g": true
     }
