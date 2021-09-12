@@ -1,6 +1,6 @@
 {
   "code": 200,
-  "phones": [
+  "phones": 
     {
       "id": 1,
       "name": "Samsung Galaxy Z Flip 3",
@@ -61,5 +61,5 @@
       "description": null,
       "5g": true
     }
-  ]
+  
 }
